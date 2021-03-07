@@ -76,6 +76,6 @@ The Bert large-uncased gives us an accuracy of about 97% for training data, 78.2
 **Combined**
 The accuracy after doing majority voting is 87.3% on the test set. 
  
-****References** **
+**References**
 ● https://huggingface.co/ 
 ● https://swatimeena989.medium.com/bert-text-classification-using-keras-903671e0207d 
